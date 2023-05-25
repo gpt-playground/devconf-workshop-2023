@@ -1,3 +1,4 @@
+#
 name: Full Deployment
 on:
   workflow_dispatch:
