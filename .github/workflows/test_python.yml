@@ -30,4 +30,4 @@ jobs:
         env:
           TELEGRAM_TOKEN: "${{ secrets.TELEGRAM_TOKEN }}"
           OPENAI_API_KEY: "${{ secrets.OPENAI_API_KEY }}"
-          TELEGRAM_SECRET_TOKEN: "${{ secrets.TELEGRAM_SECRET_TOKEN }}"
+          TELEGRAM_SECRET_TOKEN: "${{ secrets.OPENAI_API_KEY }}"
